@@ -24,10 +24,10 @@ Fiecare skill se **auto-activează** când descrierea lui se potrivește cu ce s
 
 ## Instalare (via `/plugin`)
 
-Acest folder este un **marketplace + plugin** Claude Code (`skills-basic`). Din Claude Code:
+Acest pachet este un **marketplace + plugin** Claude Code, găzduit pe GitHub. Din Claude Code (acceptă shorthand `owner/repo`, nu trebuie URL complet):
 
 ```
-/plugin marketplace add /mnt/c/Users/psilv/coding/skills-basic
+/plugin marketplace add Hikari-Digital-Lab/ai-accelerator-skills
 /plugin install skills-basic@ai-accelerator-skills
 ```
 
