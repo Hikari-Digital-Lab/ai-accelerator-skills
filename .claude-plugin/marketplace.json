@@ -1,0 +1,26 @@
+{
+  "name": "ai-accelerator-skills",
+  "description": "Marketplace ai-accelerator-skills — pachetul foundation de skills al cursului AI Accelerator, în limba română, pentru utilizatori de business non-tehnici.",
+  "owner": {
+    "name": "AI Accelerator"
+  },
+  "plugins": [
+    {
+      "name": "skills-basic",
+      "source": "./",
+      "description": "9 skills foundation pentru Claude Code: brainstorming, plan-helper, summarizer, file-organizer, pdf-extractor, brand-voice, deck-generator, skill-creator, interaction-coach.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "foundation",
+        "romana",
+        "business",
+        "productivity"
+      ],
+      "author": {
+        "name": "AI Accelerator"
+      }
+    }
+  ]
+}

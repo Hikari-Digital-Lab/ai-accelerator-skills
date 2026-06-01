@@ -1,0 +1,23 @@
+{
+  "name": "skills-basic",
+  "description": "Pachet foundation de 9 skills pentru Claude Code — biblioteca de bază a cursului AI Accelerator (Modulul 2 — Power User): brainstorming, plan-helper, summarizer, file-organizer, pdf-extractor, brand-voice, deck-generator, skill-creator, interaction-coach. În limba română, pentru utilizatori de business non-tehnici.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI Accelerator"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "foundation",
+    "brainstorming",
+    "planning",
+    "summarizer",
+    "file-organizer",
+    "pdf",
+    "brand-voice",
+    "slides",
+    "skill-creator",
+    "romana",
+    "business"
+  ]
+}
