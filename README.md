@@ -22,6 +22,12 @@ Fiecare skill se **auto-activează** când descrierea lui se potrivește cu ce s
 
 ---
 
+## Banner
+
+Plugin-ul afișează deasupra promptului un rând discret: **🧙 powered by [ai-wizard.tech](https://ai-wizard.tech/)** (`hooks/register.tsx`).
+
+---
+
 ## Instalare (via `/plugin`)
 
 Acest pachet este un **marketplace + plugin** Claude Code, găzduit pe GitHub. Din Claude Code (acceptă shorthand `owner/repo`, nu trebuie URL complet):

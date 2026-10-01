@@ -9,7 +9,7 @@
       "name": "skills-basic",
       "source": "./",
       "description": "9 skills foundation pentru Claude Code: brainstorming, plan-helper, summarizer, file-organizer, pdf-extractor, brand-voice, deck-generator, skill-creator, interaction-coach.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "productivity",
       "keywords": [
         "skills",
